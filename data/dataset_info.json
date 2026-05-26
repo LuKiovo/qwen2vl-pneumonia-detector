@@ -1,0 +1,10 @@
+{
+  "pneumonia_instructions": {
+    "file_name": "pneumonia_instructions.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  }
+}
